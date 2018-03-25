@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{opacity:0.2;}
+	.st2{fill:#FFFFFF;}
+	.st3{opacity:0.1;enable-background:new    ;}
+</style>
+<title>mark_chat</title>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="7.001" y1="38" x2="71.32" y2="38" gradientTransform="matrix(1 0 0 -1 0 74)">
+		<stop  offset="0" style="stop-color:#29CC7D"/>
+		<stop  offset="0.9" style="stop-color:#00AAD9"/>
+	</linearGradient>
+	<path class="st0" d="M54.5,9.6c-1.6-3.8-6-5.6-9.8-4l-9.3,3.9l-23.8,10c-3.8,1.6-5.6,6-4,9.8l0.2,0.4l13.8,32.7
+		c1.6,3.8,6,5.6,9.8,4l23.5-9.9l16.5-6.9L54.5,9.6z"/>
+	<g class="st1">
+		<path class="st2" d="M35.4,9.5l-23.8,10c-3.8,1.6-5.6,6-4,9.8l0.2,0.4l13.8,32.7c1.6,3.8,6,5.6,9.8,4l23.5-9.9L35.4,9.5z"/>
+	</g>
+	<path class="st3" d="M44.7,5.6l-9.3,3.9l19.5,47l16.5-6.9l-16.8-40C52.9,5.8,48.5,4,44.7,5.6z"/>
+</g>
+</svg>

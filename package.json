@@ -1,14 +1,15 @@
 {
   "id": "wantedly-chat",
   "name": "Wantedly Chat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wantedly Chat",
   "main": "index.js",
   "author": "nomura masayuki <nomura@a3size.com>",
   "license": "MIT",
   "repository": "https://github.com/king-nomura/franz-recipe-wantedly-chat",
   "config": {
-    "serviceURL": "https://m.wantedly.com/",
-    "hasTeamID": false
+    "serviceURL": "https://m.wantedly.com/electron_index",
+    "hasTeamID": false,
+    "hasIndirectMessages": true
   }
 }

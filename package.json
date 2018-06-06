@@ -1,7 +1,7 @@
 {
   "id": "wantedly-chat",
   "name": "Wantedly Chat",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wantedly Chat",
   "main": "index.js",
   "author": "nomura masayuki <nomura@a3size.com>",
